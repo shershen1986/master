@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Positive Test Suite" parallel="false">
+    <parameter name="test-platform-uri" value="http://juliemr.github.io/protractor-demo/"/>
+    <!-- 2 options for browsers: IE | CHROME-->
+    <!-- parameter name="browser" value="IE"/> -->
+    <parameter name="browser" value="chrome"/>
+    <test name="Positive Test Scope" >
+        <classes>
+            <class name="PositiveTests" />
+        </classes>
+    </test>
+</suite>

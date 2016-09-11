@@ -1,0 +1,6 @@
+<suite name="suite of suites">
+    <suite-files>
+        <suite-file path="positive-testng-suite.xml"/>
+        <suite-file path="negative-tstng-suite.xml" />
+    </suite-files>
+</suite>
