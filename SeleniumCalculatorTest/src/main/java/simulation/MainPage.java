@@ -68,7 +68,7 @@ public class MainPage{
         return this.historyResultsTable;
     }
 
-    public TableRow getLastValueFromHistoryTable(){
+    public HistoryResultsTable.TableRow getLastValueFromHistoryTable(){
         return this.historyResultsTable.getLastRowData();
     }
 
