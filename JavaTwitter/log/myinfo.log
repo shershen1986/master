@@ -1,0 +1,81 @@
+2016-07-12/15:00:33.249  INFO: UpdateTest - 403
+2016-07-12/15:00:34.291  INFO: UpdateTest - 200 : {"created_at":"Tue Jul 12 18:00:26 +0000 2016","id":752925602282344448,"id_str":"752925602282344448","text":"Maybe he'll finally find his keys. #Lion","truncated":false,"entities":{"hashtags":[{"text":"Lion","indices":[35,40]}],"symbols":[],"user_mentions":[],"urls":[]},"source":"\u003ca href=\"http:\/\/temp.com\" rel=\"nofollow\"\u003eTwitterRestTest2016\u003c\/a\u003e","in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":743343638319529986,"id_str":"743343638319529986","name":"Andrew","screen_name":"andreyshershne1","location":"","description":"","url":null,"entities":{"description":{"urls":[]}},"protected":false,"followers_count":1,"friends_count":0,"listed_count":0,"created_at":"Thu Jun 16 07:25:08 +0000 2016","favourites_count":0,"utc_offset":null,"time_zone":null,"geo_enabled":false,"verified":false,"statuses_count":5,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"F5F8FA","profile_background_image_url":null,"profile_background_image_url_https":null,"profile_background_tile":false,"profile_image_url":"http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_4_normal.png","profile_image_url_https":"https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_4_normal.png","profile_link_color":"2B7BB9","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"has_extended_profile":false,"default_profile":true,"default_profile_image":true,"following":false,"follow_request_sent":false,"notifications":false},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"favorited":false,"retweeted":false,"lang":"en"}
+2016-07-12/15:24:51.494  INFO: UpdateTest - Started: checkStatusCommandForUniqGreaterThen140SymbolsMessageTests
+2016-07-12/15:24:53.181  INFO: UpdateTest - 403
+2016-07-12/15:24:53.307  INFO: UpdateTest - Started: checkStatusCommandForUniqLessThen140SymbolsMessageTest
+2016-07-12/21:27:33.530  INFO: UpdateTest - Started: checkStatusCommandForUniqGreaterThen140SymbolsMessageTests
+2016-07-12/21:27:38.197  INFO: UpdateTest - 403
+2016-07-12/21:27:38.243  INFO: UpdateTest - Started: checkStatusCommandForUniqLessThen140SymbolsMessageTest
+2016-07-12/21:30:54.051  INFO: UserTimelineTest - Started: checkResponseForExistingUserIdTest
+2016-07-12/15:32:04.104  INFO: UpdateTest - Started: checkStatusCommandForUniqGreaterThen140SymbolsMessageTests
+2016-07-12/15:32:05.763  INFO: UpdateTest - 403
+2016-07-12/21:35:52.458  INFO: UserTimelineTest - Started: checkResponseForExistingUserIdTest
+checkResponseForExistingUserIdTest2016-07-12/21:35:53.279  INFO: UserTimelineTest - Started: checkResponseForNotExistingUserIdTest
+checkResponseForNotExistingUserIdTest2016-07-12/15:36:16.735  INFO: UpdateTest - Started: checkStatusCommandForUniqGreaterThen140SymbolsMessageTests
+checkStatusCommandForUniqGreaterThen140SymbolsMessageTest2016-07-12/15:36:18.619  INFO: UpdateTest - 403
+checkStatusCommandForUniqGreaterThen140SymbolsMessageTest2016-07-12/21:39:42.316  INFO: UserTimelineTest - Started: checkResponseForExistingUserIdTest
+checkResponseForExistingUserIdTest2016-07-12/21:39:44.039  INFO: UserTimelineTest - Started: checkResponseForNotExistingUserIdTest
+checkResponseForNotExistingUserIdTest2016-07-12/21:39:45.764  INFO: UserTimelineTest - 404
+checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest2016-07-12/21:39:45.766  INFO: UserTimelineTest - {"errors":[{"code":34,"message":"Sorry, that page does not exist."}]}
+checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest2016-07-12/21:43:04.423  INFO: UserTimelineTest - Started: checkResponseForExistingUserIdTest
+checkResponseForExistingUserIdTest2016-07-12/21:43:05.266  INFO: UserTimelineTest - Started: checkResponseForNotExistingUserIdTest
+checkResponseForNotExistingUserIdTest2016-07-12/21:43:06.917  INFO: UserTimelineTest - 404
+checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest2016-07-12/21:43:06.918  INFO: UserTimelineTest - {"errors":[{"code":34,"message":"Sorry, that page does not exist."}]}
+checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest2016-07-12/21:45:07.401  INFO: UserTimelineTest - Started: checkResponseForExistingUserIdTest
+2016-07-12/21:45:08.279  INFO: UserTimelineTest - Started: checkResponseForNotExistingUserIdTest
+2016-07-12/21:45:09.877  INFO: UserTimelineTest - 404
+2016-07-12/21:45:09.879  INFO: UserTimelineTest - {"errors":[{"code":34,"message":"Sorry, that page does not exist."}]}
+2016-07-12/21:46:01.849  INFO: UserTimelineTest - Started: checkResponseForExistingUserIdTest
+2016-07-12/21:46:02.685  INFO: UserTimelineTest - Started: checkResponseForNotExistingUserIdTest
+2016-07-12/21:46:04.293  INFO: UserTimelineTest - 404
+2016-07-12/21:46:04.295  INFO: UserTimelineTest - {"errors":[{"code":34,"message":"Sorry, that page does not exist."}]}
+2016-07-12/21:46:41.730  INFO: UserTimelineTest - Started: checkResponseForExistingUserIdTest
+2016-07-12/21:46:42.591  INFO: UserTimelineTest - Started: checkResponseForNotExistingUserIdTest
+2016-07-12/21:46:44.220  INFO: UserTimelineTest - 404
+2016-07-12/21:46:44.223  INFO: UserTimelineTest - {"errors":[{"code":34,"message":"Sorry, that page does not exist."}]}
+2016-07-12/21:47:24.440  INFO: UserTimelineTest : checkResponseForExistingUserIdTest: Started: checkResponseForExistingUserIdTest
+2016-07-12/21:47:25.986  INFO: UserTimelineTest : checkResponseForNotExistingUserIdTest: Started: checkResponseForNotExistingUserIdTest
+2016-07-12/21:47:27.610  INFO: UserTimelineTest : checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest: 404
+2016-07-12/21:47:27.615  INFO: UserTimelineTest : checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest: {"errors":[{"code":34,"message":"Sorry, that page does not exist."}]}
+2016-07-12/15:49:18.909  INFO: UpdateTest : checkStatusCommandForUniqGreaterThen140SymbolsMessageTest: Started: checkStatusCommandForUniqGreaterThen140SymbolsMessageTests
+2016-07-12/15:49:23.978  INFO: UpdateTest : checkStatusCommandForUniqGreaterThen140SymbolsMessageTest: 403
+2016-07-12/15:50:02.475  INFO: UpdateTest : checkStatusCommandForUniqGreaterThen140SymbolsMessageTest: Started: checkStatusCommandForUniqGreaterThen140SymbolsMessageTests
+2016-07-12/15:50:16.404  INFO: UpdateTest : checkStatusCommandForUniqGreaterThen140SymbolsMessageTest: 403
+2016-07-12/15:55:40.547  INFO: UserTimelineTest : checkResponseForExistingUserIdTest: Started: checkResponseForExistingUserIdTest
+2016-07-12/15:55:45.943  INFO: UserTimelineTest : checkResponseForNotExistingUserIdTest: Started: checkResponseForNotExistingUserIdTest
+2016-07-12/15:55:55.590  INFO: UserTimelineTest : checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest: 404
+2016-07-12/15:55:55.633  INFO: UserTimelineTest : checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest: {"errors":[{"code":34,"message":"Sorry, that page does not exist."}]}
+2016-07-12/15:59:53.708  INFO: UserTimelineTest : checkResponseForExistingUserIdTest: Started: checkResponseForExistingUserIdTest
+2016-07-12/15:59:54.568  INFO: UserTimelineTest : checkResponseForNotExistingUserIdTest: Started: checkResponseForNotExistingUserIdTest
+2016-07-12/15:59:56.208  INFO: UserTimelineTest : checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest: 404
+2016-07-12/15:59:56.209  INFO: UserTimelineTest : checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest: {"errors":[{"code":34,"message":"Sorry, that page does not exist."}]}
+2016-07-12/16:00:55.348  INFO: UpdateTest : checkStatusCommandForUniqGreaterThen140SymbolsMessageTest: Started: checkStatusCommandForUniqGreaterThen140SymbolsMessageTests
+2016-07-12/16:00:57.014  INFO: UpdateTest : checkStatusCommandForUniqGreaterThen140SymbolsMessageTest: 403
+2016-07-12/16:01:03.972  INFO: UserTimelineTest : checkResponseForExistingUserIdTest: Started: checkResponseForExistingUserIdTest
+2016-07-12/16:01:04.823  INFO: UserTimelineTest : checkResponseForNotExistingUserIdTest: Started: checkResponseForNotExistingUserIdTest
+2016-07-12/16:01:06.473  INFO: UserTimelineTest : checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest: 404
+2016-07-12/16:01:06.473  INFO: UserTimelineTest : checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest: {"errors":[{"code":34,"message":"Sorry, that page does not exist."}]}
+2016-07-12/16:10:52.917  INFO: UpdateTest : checkStatusCommandForUniqGreaterThen140SymbolsMessageTest: Started: checkStatusCommandForUniqGreaterThen140SymbolsMessageTests
+2016-07-12/16:10:54.524  INFO: UpdateTest : checkStatusCommandForUniqGreaterThen140SymbolsMessageTest: 403
+2016-07-12/16:11:01.922  INFO: UserTimelineTest : checkResponseForExistingUserIdTest: Started: checkResponseForExistingUserIdTest
+2016-07-12/16:11:03.523  INFO: UserTimelineTest : checkResponseForNotExistingUserIdTest: Started: checkResponseForNotExistingUserIdTest
+2016-07-12/16:11:05.191  INFO: UserTimelineTest : checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest: 404
+2016-07-12/16:11:05.191  INFO: UserTimelineTest : checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest: {"errors":[{"code":34,"message":"Sorry, that page does not exist."}]}
+2016-08-13/10:42:08.261  INFO: UpdateTest : checkStatusCommandForUniqGreaterThen140SymbolsMessageTest: Started: checkStatusCommandForUniqGreaterThen140SymbolsMessageTests
+2016-08-13/10:42:10.945  INFO: UpdateTest : checkStatusCommandForUniqGreaterThen140SymbolsMessageTest: 403
+2016-08-13/10:42:17.826  INFO: UserTimelineTest : checkResponseForExistingUserIdTest: Started: checkResponseForExistingUserIdTest
+2016-08-13/10:42:18.675  INFO: UserTimelineTest : checkResponseForNotExistingUserIdTest: Started: checkResponseForNotExistingUserIdTest
+2016-08-13/10:42:20.318  INFO: UserTimelineTest : checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest: 404
+2016-08-13/10:42:20.318  INFO: UserTimelineTest : checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest: {"errors":[{"code":34,"message":"Sorry, that page does not exist."}]}
+2016-09-04/13:08:47.127  INFO: UserTimelineTest : checkResponseForExistingUserIdTest: Started: checkResponseForExistingUserIdTest
+2016-09-04/13:08:48.012  INFO: UserTimelineTest : checkResponseForNotExistingUserIdTest: Started: checkResponseForNotExistingUserIdTest
+2016-09-04/13:08:49.647  INFO: UserTimelineTest : checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest: 404
+2016-09-04/13:08:49.648  INFO: UserTimelineTest : checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest: {"errors":[{"code":34,"message":"Sorry, that page does not exist."}]}
+2016-09-04/13:09:07.964  INFO: UpdateTest : checkStatusCommandForUniqGreaterThen140SymbolsMessageTest: Started: checkStatusCommandForUniqGreaterThen140SymbolsMessageTests
+2016-09-04/13:09:09.955  INFO: UpdateTest : checkStatusCommandForUniqGreaterThen140SymbolsMessageTest: 403
+2017-04-25/09:18:10.818  INFO: UpdateTest : checkStatusCommandForUniqGreaterThen140SymbolsMessageTest: Started: checkStatusCommandForUniqGreaterThen140SymbolsMessageTests
+2017-04-25/09:18:14.722  INFO: UpdateTest : checkStatusCommandForUniqGreaterThen140SymbolsMessageTest: 403
+2017-04-25/09:21:04.226  INFO: UserTimelineTest : checkResponseForExistingUserIdTest: Started: checkResponseForExistingUserIdTest
+2017-04-25/09:21:04.772  INFO: UserTimelineTest : checkResponseForNotExistingUserIdTest: Started: checkResponseForNotExistingUserIdTest
+2017-04-25/09:21:05.683  INFO: UserTimelineTest : checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest: 404
+2017-04-25/09:21:05.684  INFO: UserTimelineTest : checkIdAndScreenNameForNotExistingUserIAndExistingScreenNameTest: {"errors":[{"code":34,"message":"Sorry, that page does not exist."}]}
