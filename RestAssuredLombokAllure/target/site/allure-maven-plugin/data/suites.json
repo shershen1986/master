@@ -1,0 +1,43 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Surefire suite",
+    "children" : [ {
+      "name" : "Surefire test",
+      "children" : [ {
+        "name" : "RestApiTest",
+        "children" : [ {
+          "name" : "extractingIntoObjJsonResponseUsingJacksonTest",
+          "uid" : "d5e2911c6683e920",
+          "parentUid" : "0e5c7ff20717e5d8da6eaa79e53dcc6f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1622111248897,
+            "stop" : 1622111256875,
+            "duration" : 7978
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "extractingIntoObjJsonResponseUsingRestAssuredTest",
+          "uid" : "72000611da3b4d1e",
+          "parentUid" : "0e5c7ff20717e5d8da6eaa79e53dcc6f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1622111256878,
+            "stop" : 1622111257409,
+            "duration" : 531
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0e5c7ff20717e5d8da6eaa79e53dcc6f"
+      } ],
+      "uid" : "1fcb2e6ec8e5b5e8a1f2a70b87c80b24"
+    } ],
+    "uid" : "940a09faf31371a51747026c9d178f0a"
+  } ],
+  "name" : "suites"
+}

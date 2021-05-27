@@ -1,0 +1,27 @@
+Date=Thu, 27 May 2021 10:27:37 GMT
+Content-Type=application/json;charset=UTF-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Via=1.1 vegur
+CF-Cache-Status=DYNAMIC
+cf-request-id=0a4ef69a3400004a9dc2894000000001
+Expect-CT=max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v2?s=5mzUHfsXaJQN2xNmMD40SgDw8PHbETiUi748iJznQyta1wPsvH4X9gS9GerPPd7jMD4Mr%2F%2FAwHA9EvcvyKvRc7Ii78nims76Zr%2B6UjAAXZnKQPyRqRGxgBqm9Mj3CT8H"}],"group":"cf-nel","max_age":604800}
+NEL={"report_to":"cf-nel","max_age":604800}
+Server=cloudflare
+CF-RAY=655e8d3d19c24a9d-FRA
+Content-Encoding=gzip
+alt-svc=h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+
+{
+    "categories": [
+        
+    ],
+    "created_at": "2020-01-05 13:42:20.262289",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "X3LByL81QCGpy2eSNiI2ZA",
+    "updated_at": "2020-01-05 13:42:20.262289",
+    "url": "https://api.chucknorris.io/jokes/X3LByL81QCGpy2eSNiI2ZA",
+    "value": "Hannibal Lecter wears a \"Chuck Norris is a badass\" T-shirt."
+}

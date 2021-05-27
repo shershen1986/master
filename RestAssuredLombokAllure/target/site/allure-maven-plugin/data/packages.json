@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "RestApiTest",
+    "children" : [ {
+      "name" : "extractingIntoObjJsonResponseUsingJacksonTest",
+      "uid" : "d5e2911c6683e920",
+      "parentUid" : "30c9b164e2704eac3858cbcb290584a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622111248897,
+        "stop" : 1622111256875,
+        "duration" : 7978
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "extractingIntoObjJsonResponseUsingRestAssuredTest",
+      "uid" : "72000611da3b4d1e",
+      "parentUid" : "30c9b164e2704eac3858cbcb290584a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622111256878,
+        "stop" : 1622111257409,
+        "duration" : 531
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "30c9b164e2704eac3858cbcb290584a3"
+  } ],
+  "name" : "packages"
+}

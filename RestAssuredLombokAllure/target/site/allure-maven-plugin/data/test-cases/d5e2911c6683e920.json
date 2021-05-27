@@ -1,0 +1,86 @@
+{
+  "uid" : "d5e2911c6683e920",
+  "name" : "extractingIntoObjJsonResponseUsingJacksonTest",
+  "fullName" : "RestApiTest.extractingIntoObjJsonResponseUsingJacksonTest",
+  "historyId" : "d7c948b9ee812759741a99158257fc62",
+  "time" : {
+    "start" : 1622111248897,
+    "stop" : 1622111256875,
+    "duration" : 7978
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2260ba63336b1792",
+      "name" : "response",
+      "source" : "2260ba63336b1792.txt",
+      "type" : "text/json",
+      "size" : 1186
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro.local"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "RestApiTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "Surefire test"
+  }, {
+    "name" : "testMethod",
+    "value" : "extractingIntoObjJsonResponseUsingJacksonTest"
+  }, {
+    "name" : "testSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "thread",
+    "value" : "23837@MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "RestApiTest"
+  }, {
+    "name" : "package",
+    "value" : "RestApiTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5e2911c6683e920.json",
+  "parameterValues" : [ ]
+}

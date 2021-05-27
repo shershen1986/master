@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="8622" started-at="2021-05-27T13:27:28 EEST" finished-at="2021-05-27T13:27:37 EEST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="8622" started-at="2021-05-27T13:27:28 EEST" finished-at="2021-05-27T13:27:37 EEST">
+      <class name="RestApiTest">
+        <test-method status="PASS" signature="extractingIntoObjJsonResponseUsingJacksonTest()[pri:0, instance:RestApiTest@741f8dbe]" name="extractingIntoObjJsonResponseUsingJacksonTest" duration-ms="8028" started-at="2021-05-27T13:27:28 EEST" finished-at="2021-05-27T13:27:36 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractingIntoObjJsonResponseUsingJacksonTest -->
+        <test-method status="PASS" signature="extractingIntoObjJsonResponseUsingRestAssuredTest()[pri:0, instance:RestApiTest@741f8dbe]" name="extractingIntoObjJsonResponseUsingRestAssuredTest" duration-ms="532" started-at="2021-05-27T13:27:36 EEST" finished-at="2021-05-27T13:27:37 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractingIntoObjJsonResponseUsingRestAssuredTest -->
+      </class> <!-- RestApiTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

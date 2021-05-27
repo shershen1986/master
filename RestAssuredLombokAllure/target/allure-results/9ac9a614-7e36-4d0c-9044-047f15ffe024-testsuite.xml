@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1622111248797" stop="1622111257422" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Surefire suite : Surefire test</name>
+    <title>Surefire suite : Surefire test</title>
+    <test-cases>
+        <test-case start="1622111248897" stop="1622111256875" status="passed">
+            <name>extractingIntoObjJsonResponseUsingJacksonTest</name>
+            <description></description>
+            <steps/>
+            <attachments>
+                <attachment title="response" source="0a59969b-afac-4b0c-a6b0-a356191c998b-attachment" type="text/json"/>
+            </attachments>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="RestApiTest"/>
+                <label name="testMethod" value="extractingIntoObjJsonResponseUsingJacksonTest"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="23837@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1622111256878" stop="1622111257409" status="passed">
+            <name>extractingIntoObjJsonResponseUsingRestAssuredTest</name>
+            <description></description>
+            <steps/>
+            <attachments>
+                <attachment title="request" source="47f59eaa-80b0-4137-9efe-391667b1f329-attachment" type="text/json"/>
+                <attachment title="response" source="9ec2cc12-e22e-46ce-b085-603a6a06762a-attachment" type="text/json"/>
+            </attachments>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="RestApiTest"/>
+                <label name="testMethod" value="extractingIntoObjJsonResponseUsingRestAssuredTest"/>
+                <label name="host" value="MacBook-Pro.local"/>
+                <label name="thread" value="23837@MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

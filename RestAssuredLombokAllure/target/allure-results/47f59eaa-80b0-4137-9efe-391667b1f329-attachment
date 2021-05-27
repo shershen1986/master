@@ -1,0 +1,8 @@
+https://api.chucknorris.io/jokes/random
+Method: GET
+x-rapidapi-key=SIGN-UP-FOR-KEY
+useQueryString=true
+Accept=*/*
+
+
+null
