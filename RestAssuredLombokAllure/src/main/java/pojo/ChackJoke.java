@@ -5,9 +5,8 @@ import lombok.*;
 
 @Data
 @Builder
-@AllArgsConstructor(access = AccessLevel.PUBLIC)
 @NoArgsConstructor
-@Getter
+@AllArgsConstructor(access = AccessLevel.PUBLIC)
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class ChackJoke {
     String[] categories;
