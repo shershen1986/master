@@ -16,7 +16,7 @@
         <allure.adaptor.version>1.5.4</allure.adaptor.version>
         <allure-maven.reportVersion>2.10.0</allure-maven.reportVersion>
         <allure-java-commons-version>2.13.1</allure-java-commons-version>
-        <jakson.version>2.12.3</jakson.version>
+        <jakson.version>2.12.7.1</jakson.version>
         <maven.surefire.plugin.version>2.22.2</maven.surefire.plugin.version>
         <aspectj.version>1.9.5</aspectj.version>
         <lombok.version>1.18.20</lombok.version>
